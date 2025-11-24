@@ -1,7 +1,6 @@
 #!/bin/bash
-# VizraPlesk → PMG Domain Sync Script
+# Vizra Plesk → PMG Domain Sync Script
 # www.vizra.com 
-# Samet YILMAZ
 
 # Proxmox Mail Gateway Credentials
 PMG_IP="PMG_IP"
